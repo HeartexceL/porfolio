@@ -29,6 +29,6 @@ function AboutCard() {
       </Card.Body>
     </Card>
   );
-}
+} 
 
 export default AboutCard;
