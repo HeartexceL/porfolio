@@ -1,34 +1,30 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.5f4a9fa9.chunk.css",
-    "main.js": "/porfolio/static/js/main.9d4a5930.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.9d4a5930.chunk.js.map",
+    "main.css": "/porfolio/static/css/main.d4c3fff5.chunk.css",
+    "main.js": "/porfolio/static/js/main.d15d9940.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.d15d9940.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.58c16614.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.58c16614.js.map",
     "static/css/2.ef732e0b.chunk.css": "/porfolio/static/css/2.ef732e0b.chunk.css",
-    "static/js/2.97bc31eb.chunk.js": "/porfolio/static/js/2.97bc31eb.chunk.js",
-    "static/js/2.97bc31eb.chunk.js.map": "/porfolio/static/js/2.97bc31eb.chunk.js.map",
+    "static/js/2.d8a87843.chunk.js": "/porfolio/static/js/2.d8a87843.chunk.js",
+    "static/js/2.d8a87843.chunk.js.map": "/porfolio/static/js/2.d8a87843.chunk.js.map",
     "index.html": "/porfolio/index.html",
     "static/css/2.ef732e0b.chunk.css.map": "/porfolio/static/css/2.ef732e0b.chunk.css.map",
-    "static/css/main.5f4a9fa9.chunk.css.map": "/porfolio/static/css/main.5f4a9fa9.chunk.css.map",
-    "static/js/2.97bc31eb.chunk.js.LICENSE.txt": "/porfolio/static/js/2.97bc31eb.chunk.js.LICENSE.txt",
-    "static/media/Roeland_Resume.31d6cfe0.pdf": "/porfolio/static/media/Roeland_Resume.31d6cfe0.pdf",
+    "static/css/main.d4c3fff5.chunk.css.map": "/porfolio/static/css/main.d4c3fff5.chunk.css.map",
+    "static/js/2.d8a87843.chunk.js.LICENSE.txt": "/porfolio/static/js/2.d8a87843.chunk.js.LICENSE.txt",
+    "static/media/Roeland_Ticlao_Resume.8141ef45.pdf": "/porfolio/static/media/Roeland_Ticlao_Resume.8141ef45.pdf",
     "static/media/briefcase-img.e2ce07a2.jpg": "/porfolio/static/media/briefcase-img.e2ce07a2.jpg",
-    "static/media/cosmos.19ad0934.jpg": "/porfolio/static/media/cosmos.19ad0934.jpg",
     "static/media/developer.23e159be.jpg": "/porfolio/static/media/developer.23e159be.jpg",
     "static/media/englightened-equipment-img.d826cd04.jpg": "/porfolio/static/media/englightened-equipment-img.d826cd04.jpg",
-    "static/media/hsp.40c6e624.png": "/porfolio/static/media/hsp.40c6e624.png",
     "static/media/metro-screen-works-img.1cf34725.jpg": "/porfolio/static/media/metro-screen-works-img.1cf34725.jpg",
     "static/media/overnight-casket-img.ea8cca83.jpg": "/porfolio/static/media/overnight-casket-img.ea8cca83.jpg",
-    "static/media/profile-pic.ccf707f9.jpg": "/porfolio/static/media/profile-pic.ccf707f9.jpg",
-    "static/media/techspec.3b34aad0.png": "/porfolio/static/media/techspec.3b34aad0.png",
-    "static/media/travelwell.772033dc.png": "/porfolio/static/media/travelwell.772033dc.png"
+    "static/media/profile-pic.ccf707f9.jpg": "/porfolio/static/media/profile-pic.ccf707f9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.58c16614.js",
     "static/css/2.ef732e0b.chunk.css",
-    "static/js/2.97bc31eb.chunk.js",
-    "static/css/main.5f4a9fa9.chunk.css",
-    "static/js/main.9d4a5930.chunk.js"
+    "static/js/2.d8a87843.chunk.js",
+    "static/css/main.d4c3fff5.chunk.css",
+    "static/js/main.d15d9940.chunk.js"
   ]
 }
