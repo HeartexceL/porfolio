@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/porfolio/static/css/main.5f4a9fa9.chunk.css",
-    "main.js": "/porfolio/static/js/main.5f255b08.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.5f255b08.chunk.js.map",
+    "main.js": "/porfolio/static/js/main.cf637470.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.cf637470.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.58c16614.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.58c16614.js.map",
     "static/css/2.ef732e0b.chunk.css": "/porfolio/static/css/2.ef732e0b.chunk.css",
@@ -14,12 +14,12 @@
     "static/js/2.97bc31eb.chunk.js.LICENSE.txt": "/porfolio/static/js/2.97bc31eb.chunk.js.LICENSE.txt",
     "static/media/Roeland_Resume.31d6cfe0.pdf": "/porfolio/static/media/Roeland_Resume.31d6cfe0.pdf",
     "static/media/briefcase-img.e2ce07a2.jpg": "/porfolio/static/media/briefcase-img.e2ce07a2.jpg",
-    "static/media/coast.54b1b992.jpg": "/porfolio/static/media/coast.54b1b992.jpg",
     "static/media/cosmos.19ad0934.jpg": "/porfolio/static/media/cosmos.19ad0934.jpg",
     "static/media/developer.23e159be.jpg": "/porfolio/static/media/developer.23e159be.jpg",
-    "static/media/dropship.b52fa0a1.jpg": "/porfolio/static/media/dropship.b52fa0a1.jpg",
-    "static/media/goodFoodDiscounts.9b9dd889.png": "/porfolio/static/media/goodFoodDiscounts.9b9dd889.png",
+    "static/media/englightened-equipment-img.d826cd04.jpg": "/porfolio/static/media/englightened-equipment-img.d826cd04.jpg",
     "static/media/hsp.40c6e624.png": "/porfolio/static/media/hsp.40c6e624.png",
+    "static/media/metro-screen-works-img.1cf34725.jpg": "/porfolio/static/media/metro-screen-works-img.1cf34725.jpg",
+    "static/media/overnight-casket-img.ea8cca83.jpg": "/porfolio/static/media/overnight-casket-img.ea8cca83.jpg",
     "static/media/profile-pic.ccf707f9.jpg": "/porfolio/static/media/profile-pic.ccf707f9.jpg",
     "static/media/techspec.3b34aad0.png": "/porfolio/static/media/techspec.3b34aad0.png",
     "static/media/travelwell.772033dc.png": "/porfolio/static/media/travelwell.772033dc.png"
@@ -29,6 +29,6 @@
     "static/css/2.ef732e0b.chunk.css",
     "static/js/2.97bc31eb.chunk.js",
     "static/css/main.5f4a9fa9.chunk.css",
-    "static/js/main.5f255b08.chunk.js"
+    "static/js/main.cf637470.chunk.js"
   ]
 }
