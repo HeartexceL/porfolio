@@ -1,7 +1,7 @@
 import React from "react";
 import {
   AiFillGithub,
-  AiFillInstagram,
+  // AiFillInstagram,
 } from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";

@@ -1,5 +1,5 @@
 html {
-  --imp-text-color: #fbfbfb;
+  --imp-text-color: #1c1c1c;
 }
 
 .purple {
@@ -17,7 +17,7 @@ html {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #fbfbfb;
+  background-color: #fbfbfb !important;
   background-repeat: no-repeat;
   background-position: center;
 }
@@ -30,7 +30,7 @@ html {
       width: 100%;
       height: 100%;
       z-index: 999999;
-      background-color: #fbfbfb;
+      background-color: #fbfbfb !important;
       background-repeat: no-repeat;
       background-position: center;
   }
@@ -75,6 +75,7 @@ html {
 /* body */
 body{
   background-color: #fbfbfb;
+  background-color: #fbfbfb !important;
 }
 
 
@@ -798,9 +799,9 @@ body{
 }
 .profile-pic {
   border-radius: 50%;
-  height: 70%;
+  height: 60%;
   width: 65%;
-  margin-top: 12%;
+  margin-top: 25%;
   margin-left: 25%;
 }
 
@@ -822,4 +823,12 @@ body{
   .skill-tools-wrapper{
     flex-direction: column;
   }
+}
+
+/* home custom */
+.home-porfolio-section{
+  text-align: left;
+}
+.skill-group ul{
+
 }

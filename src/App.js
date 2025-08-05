@@ -13,6 +13,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/ScrollToTop";
 
+import ParticlesBackground from './components/ParticlesBackground';
+
 function App() {
   const [load, upadateLoad] = useState(true);
 
@@ -26,6 +28,7 @@ function App() {
 
   return (
     <Router>
+      
       {load ? (
         <Preloader load={load} />
       ) : (
