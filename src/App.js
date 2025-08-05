@@ -13,8 +13,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 
 import ScrollToTop from "./components/ScrollToTop";
 
-import ParticlesBackground from './components/ParticlesBackground';
-
 function App() {
   const [load, upadateLoad] = useState(true);
 
