@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/porfolio/static/css/main.d4c3fff5.chunk.css",
-    "main.js": "/porfolio/static/js/main.4edb1704.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.4edb1704.chunk.js.map",
+    "main.js": "/porfolio/static/js/main.7ff24280.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.7ff24280.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.58c16614.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.58c16614.js.map",
     "static/css/2.ef732e0b.chunk.css": "/porfolio/static/css/2.ef732e0b.chunk.css",
-    "static/js/2.d8a87843.chunk.js": "/porfolio/static/js/2.d8a87843.chunk.js",
-    "static/js/2.d8a87843.chunk.js.map": "/porfolio/static/js/2.d8a87843.chunk.js.map",
+    "static/js/2.f66d79b2.chunk.js": "/porfolio/static/js/2.f66d79b2.chunk.js",
+    "static/js/2.f66d79b2.chunk.js.map": "/porfolio/static/js/2.f66d79b2.chunk.js.map",
     "index.html": "/porfolio/index.html",
     "static/css/2.ef732e0b.chunk.css.map": "/porfolio/static/css/2.ef732e0b.chunk.css.map",
     "static/css/main.d4c3fff5.chunk.css.map": "/porfolio/static/css/main.d4c3fff5.chunk.css.map",
-    "static/js/2.d8a87843.chunk.js.LICENSE.txt": "/porfolio/static/js/2.d8a87843.chunk.js.LICENSE.txt",
+    "static/js/2.f66d79b2.chunk.js.LICENSE.txt": "/porfolio/static/js/2.f66d79b2.chunk.js.LICENSE.txt",
     "static/media/Roeland_Ticlao_Resume.8141ef45.pdf": "/porfolio/static/media/Roeland_Ticlao_Resume.8141ef45.pdf",
     "static/media/birdrockcoffee-img.6e159977.jpg": "/porfolio/static/media/birdrockcoffee-img.6e159977.jpg",
     "static/media/briefcase-img.e2ce07a2.jpg": "/porfolio/static/media/briefcase-img.e2ce07a2.jpg",
@@ -26,8 +26,8 @@
   "entrypoints": [
     "static/js/runtime-main.58c16614.js",
     "static/css/2.ef732e0b.chunk.css",
-    "static/js/2.d8a87843.chunk.js",
+    "static/js/2.f66d79b2.chunk.js",
     "static/css/main.d4c3fff5.chunk.css",
-    "static/js/main.4edb1704.chunk.js"
+    "static/js/main.7ff24280.chunk.js"
   ]
 }
