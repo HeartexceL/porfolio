@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/porfolio/static/css/main.d4c3fff5.chunk.css",
-    "main.js": "/porfolio/static/js/main.f24ebed3.chunk.js",
-    "main.js.map": "/porfolio/static/js/main.f24ebed3.chunk.js.map",
+    "main.js": "/porfolio/static/js/main.90ddb92e.chunk.js",
+    "main.js.map": "/porfolio/static/js/main.90ddb92e.chunk.js.map",
     "runtime-main.js": "/porfolio/static/js/runtime-main.58c16614.js",
     "runtime-main.js.map": "/porfolio/static/js/runtime-main.58c16614.js.map",
     "static/css/2.ef732e0b.chunk.css": "/porfolio/static/css/2.ef732e0b.chunk.css",
@@ -14,6 +14,7 @@
     "static/js/2.d8a87843.chunk.js.LICENSE.txt": "/porfolio/static/js/2.d8a87843.chunk.js.LICENSE.txt",
     "static/media/Roeland_Ticlao_Resume.8141ef45.pdf": "/porfolio/static/media/Roeland_Ticlao_Resume.8141ef45.pdf",
     "static/media/briefcase-img.e2ce07a2.jpg": "/porfolio/static/media/briefcase-img.e2ce07a2.jpg",
+    "static/media/catalystshop-img.7f596883.jpg": "/porfolio/static/media/catalystshop-img.7f596883.jpg",
     "static/media/developer.23e159be.jpg": "/porfolio/static/media/developer.23e159be.jpg",
     "static/media/englightened-equipment-img.d826cd04.jpg": "/porfolio/static/media/englightened-equipment-img.d826cd04.jpg",
     "static/media/metro-screen-works-img.1cf34725.jpg": "/porfolio/static/media/metro-screen-works-img.1cf34725.jpg",
@@ -25,6 +26,6 @@
     "static/css/2.ef732e0b.chunk.css",
     "static/js/2.d8a87843.chunk.js",
     "static/css/main.d4c3fff5.chunk.css",
-    "static/js/main.f24ebed3.chunk.js"
+    "static/js/main.90ddb92e.chunk.js"
   ]
 }
